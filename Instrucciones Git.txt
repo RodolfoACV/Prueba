@@ -1,0 +1,21 @@
+Comandos git:
+
+git init: Para iniciar el repositorio.
+ls: Para ver los archivos.
+git status: Para visualizar el estado de los archivos.
+git add .: Agregar todos los archivos.
+git add <file>: Para agregar archivos.
+git commit: Para agregar al entorno de trabajo.
+git commit -m "": Acorta la instrucción, sin abrir el editor.
+git config --global user.email "": Para colocar un correo al repositorio,
+git config --global user.name "": Para colocar nombre al repositorio.
+:wq: Para salir del commit.
+git log: Para ver la informacion del repositorio.
+git restore: Para restaurar los cambios del archivos.
+git diff <file>: Ver los cambios del archivo.
+.gitignore: Ignorar archivos.
+git branch: Ver las versiones.
+git branch <name>: Crear versiones.
+git checkout <name>: Cambiar de version.
+git remote add origin https://Example.com : Donde se va almacenar el archivo.
+git push -u origin master: Ingresa el archivo a ese repositorio.
